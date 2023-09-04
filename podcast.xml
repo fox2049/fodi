@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+        <channel>
+            <title>民法典之婚姻家庭编</title>
+            <link></link>
+            <description>民法典之婚姻家庭编法条解读</description>
+            <language>zh-cn</language>
+            <image>
+                <url>https://android-artworks.25pp.com/fs08/2021/11/23/9/110_0cc601f3d1b5a8de567f2cfd7868ea57_con_130x130.png</url>
+                <title>民法典之婚姻家庭编</title>
+            </image>
+            <item>
+                <title>婚姻家庭编第1109条</title>
+                <description>婚姻家庭编第1109条</description>
+                <pubDate>Thu, Dec 30 2021 13:28:28 +0800</pubDate>
+                <enclosure length="4141489" type="audio/m4a" url="http://admin:admin@192.168.124.25:8080/Podcasts/%E5%A9%9A%E5%A7%BB%E5%AE%B6%E5%BA%AD%E7%BC%96/%E5%A9%9A%E5%A7%BB%E5%AE%B6%E5%BA%AD%E7%BC%96%E7%AC%AC1109%E6%9D%A1.m4a"/>
+                <itunes:image href="https://android-artworks.25pp.com/fs08/2021/11/23/9/110_0cc601f3d1b5a8de567f2cfd7868ea57_con.png"/>
+            </item>
+            <item>
+                <title>婚姻家庭编第1100条.</title>
+                <description>婚姻家庭编第1100条.</description>
+                <pubDate>Thu, Dec 30 2021 13:28:28 +0800</pubDate>
+                <enclosure length="3729089" type="audio/m4a" url="http://admin:admin@192.168.124.25:8080/Podcasts/%E5%A9%9A%E5%A7%BB%E5%AE%B6%E5%BA%AD%E7%BC%96/%E5%A9%9A%E5%A7%BB%E5%AE%B6%E5%BA%AD%E7%BC%96%E7%AC%AC1100%E6%9D%A1..m4a"/>
+                <itunes:image href="https://android-artworks.25pp.com/fs08/2021/11/23/9/110_0cc601f3d1b5a8de567f2cfd7868ea57_con.png"/>
+            </item>
+        </channel>
+  </rss>
