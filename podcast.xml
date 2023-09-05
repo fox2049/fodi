@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-    <title>鼓腹而游</title>
-    <itunes:subtitle>Gufueryou</itunes:subtitle>
-    <link>https://justpodmedia.com</link>
-    <atom:link href="https://justpodmedia.com/feed?ep=gufueryou" rel="self" type="application/rss+xml"/>
-    <description>这是一档介于掉书袋和扯闲篇之间的播客，由筱狸、Nelly、程衍樑共同参与。</description>
-    <itunes:summary>这是一档介于掉书袋和扯闲篇之间的播客，由筱狸、Nelly、程衍樑共同参与。</itunes:summary>
+    <title>狐狸的声音</title>
+    <itunes:subtitle>Fox's Voice</itunes:subtitle>
+    <link>https://fox2049.github.io</link>
+    <atom:link href="https://raw.githubusercontent.com/fox2049/fodi/main/podcast.xml" rel="self" type="application/rss+xml"/>
+    <description>这是fox2049的私享声音收藏库</description>
+    <itunes:summary>这是fox2049的私享声音收藏库</itunes:summary>
     <language>zh-CN</language>
-    <copyright>Copyright 2019-2023 JustPod</copyright>
+    <copyright>Copyright 2019-2023 fox2049</copyright>
     <itunes:explicit>false</itunes:explicit>
-    <itunes:keywords>圆桌讨论</itunes:keywords>
-    <itunes:author>鼓腹而游播客</itunes:author>
+    <itunes:keywords>收藏库</itunes:keywords>
+    <itunes:author>fox2049</itunes:author>
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Arts">
       <itunes:category text="Books"/>
     </itunes:category>
-    <itunes:image href="https://justpodmedia.com/pic/gfey.png"/>
+    <itunes:image href="https://github.com/fox2049/fodi/blob/b8bdafc85f2bcd4da97e971dd065499f2a817c19/avatar.jpg"/>
     <itunes:owner>
-      <itunes:name>鼓腹而游</itunes:name>
-      <itunes:email>yang1989yi@gmail.com</itunes:email>
+      <itunes:name>狐狸的声音</itunes:name>
+      <itunes:email>yosen7@gmail.com</itunes:email>
     </itunes:owner>
     <item>
       <itunes:season>1</itunes:season>
