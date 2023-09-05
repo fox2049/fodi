@@ -1,20 +1,55 @@
-<?xml version="1.0" encoding="utf-8"?>
-    <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
-        <channel>
-            <title>民法典之婚姻家庭编</title>
-            <link></link>
-            <description>民法典之婚姻家庭编法条解读</description>
-            <language>zh-cn</language>
-            <image>
-                <url>https://android-artworks.25pp.com/fs08/2021/11/23/9/110_0cc601f3d1b5a8de567f2cfd7868ea57_con_130x130.png</url>
-                <title>民法典之婚姻家庭编</title>
-            </image>
-            <item>
-                <title>婚姻家庭编第1100条.</title>
-                <description>婚姻家庭编第1100条.</description>
-                <pubDate>Thu, Dec 30 2021 13:28:28 +0800</pubDate>
-                <enclosure length="3729089" type="audio/m4a" url="https://music.163.com/song/media/outer/url?id=1913476397.mp3"/>
-                <itunes:image href="https://android-artworks.25pp.com/fs08/2021/11/23/9/110_0cc601f3d1b5a8de567f2cfd7868ea57_con.png"/>
-            </item>
-        </channel>
-  </rss>
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>鼓腹而游</title>
+    <itunes:subtitle>Gufueryou</itunes:subtitle>
+    <link>https://justpodmedia.com</link>
+    <atom:link href="https://justpodmedia.com/feed?ep=gufueryou" rel="self" type="application/rss+xml"/>
+    <description>这是一档介于掉书袋和扯闲篇之间的播客，由筱狸、Nelly、程衍樑共同参与。</description>
+    <itunes:summary>这是一档介于掉书袋和扯闲篇之间的播客，由筱狸、Nelly、程衍樑共同参与。</itunes:summary>
+    <language>zh-CN</language>
+    <copyright>Copyright 2019-2023 JustPod</copyright>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:keywords>圆桌讨论</itunes:keywords>
+    <itunes:author>鼓腹而游播客</itunes:author>
+    <itunes:type>episodic</itunes:type>
+    <itunes:category text="Arts">
+      <itunes:category text="Books"/>
+    </itunes:category>
+    <itunes:image href="https://justpodmedia.com/pic/gfey.png"/>
+    <itunes:owner>
+      <itunes:name>鼓腹而游</itunes:name>
+      <itunes:email>yang1989yi@gmail.com</itunes:email>
+    </itunes:owner>
+    <item>
+      <itunes:season>1</itunes:season>
+      <title>002测试｜关于时间旅行：从《环形物语》出发</title>
+      <itunes:title>002｜关于时间旅行：从《环形物语》出发</itunes:title>
+      <description><![CDATA[<p>【本期话题成员】</p> <p>筱狸（新浪微博：<a href="https://weibo.com/ziqilianzhi" target="_self">@BeulahDong</a>）&nbsp;</p> <p>Nelly（新浪微博：<a href="https://weibo.com/nelly900707" target="_self">@林奶粒</a>）&nbsp;</p> <p>程衍樑（新浪微博：<a href="https://weibo.com/u/7151076970" target="_self">@GrenadierGuard2</a>）&nbsp;</p> </p> <p></p> <p>【音乐】</p> <p>urban jzzzhop（ContrastAudio）</p> <p></p> <p>【音乐编辑】Sway</p> <p></p> <p>【后期制作】hotair</p> <p></p> <p>【制作总监】王若弛</p> <p></p> <p>【分发】恒一</p>]]></description>
+      <itunes:image href="https://justpodmedia.com/pic/gfey.png"/>
+      <link>https://justpodmedia.com/justpod/episode/鼓腹而游002｜关于时间旅行：从《环形物语》出发/</link>
+      <author>鼓腹而游播客</author>
+      <pubDate>Fri, 29 May 2020 09:32:48 GMT</pubDate>
+      <guid isPermaLink="true">https://dts.podtrac.com/redirect.mp3/justpodmedia.com/audio/gufueryou/gufueryou-ep2-20200529.mp3</guid>
+      <enclosure type="audio/mpeg" length="46549123" url="https://dts.podtrac.com/redirect.mp3/justpodmedia.com/audio/gufueryou/gufueryou-ep2-20200529.mp3"/>
+      <itunes:duration>2768</itunes:duration>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <itunes:season>1</itunes:season>
+      <title>003测试｜知识分子和「反智」的滥用</title>
+      <itunes:title>003｜知识分子和「反智」的滥用</itunes:title>
+      <description><![CDATA[<p>【本期话题成员】</p> <p>筱狸（新浪微博：<a href="https://weibo.com/ziqilianzhi" target="_self">@BeulahDong</a>）&nbsp;</p> <p>Nelly（新浪微博：<a href="https://weibo.com/nelly900707" target="_self">@林奶粒</a>）&nbsp;</p> <p>程衍樑（新浪微博：<a href="https://weibo.com/u/7151076970" target="_self">@GrenadierGuard2</a>）&nbsp;</p> </p> <p></p> <p>【音乐】</p> <p>urban jzzzhop（ContrastAudio）</p> <p></p> <p>【音乐编辑】Sway</p> <p></p> <p>【后期制作】hotair</p> <p></p> <p>【制作总监】王若弛</p> <p></p> <p>【分发】恒一</p>]]></description>
+      <itunes:image href="https://justpodmedia.com/pic/gfey.png"/>
+      <link>https://justpodmedia.com/justpod/episode/鼓腹而游003｜知识分子和「反智」的滥用/</link>
+      <author>鼓腹而游播客</author>
+      <pubDate>Fri, 05 Jun 2020 09:31:18 GMT</pubDate>
+      <guid isPermaLink="true">https://dts.podtrac.com/redirect.mp3/justpodmedia.com/audio/gufueryou/gufueryou-ep3-20200605.mp3</guid>
+      <enclosure type="audio/mpeg" length="50127435" url="https://dts.podtrac.com/redirect.mp3/justpodmedia.com/audio/gufueryou/gufueryou-ep3-20200605.mp3"/>
+      <itunes:duration>3132</itunes:duration>
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    </channel>
+</rss>
